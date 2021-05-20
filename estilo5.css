@@ -1,0 +1,66 @@
+body
+{
+	background-color:#f0f0ff;
+	color:#000003;
+	border-radius:20px;
+}
+*
+{
+	margin:8px;
+	padding:10px;
+}
+header
+{
+	height:75px;
+	background:purple;
+	border-radius:20px;
+}
+nav
+{
+	height:20px;
+	background:orange;
+	border-radius:20px;
+}
+section
+{
+	
+	background:olive;
+	height:800px;
+	width:1000px;
+	float:left;
+	margin-left:8px;
+	border-radius:20px;
+}
+aside
+{
+	background:gray;
+	height:800px;
+	width:700px;
+	float:right;
+	border-radius:20px;
+}
+footer
+{
+	background:purple;
+	height:1000px;
+	width:2000;
+	float:below;
+	border-radius:500px;
+}
+h1
+{
+	text-align:center;
+	font-size:30px;
+}
+h2
+{
+	text-align:center;
+	font-size:50px;
+	
+}
+
+
+
+
+
+
